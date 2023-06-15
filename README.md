@@ -1,6 +1,6 @@
 #PRACTICE! PRACTICE! and PRACTICE!
 
-    <h2>CTF</h2>
+    CTF
         Hacker 101: https://www.hackerone.com/hackers/hacker101
         PicoCTF: https://picoctf.org/
         TryHackMe: https://tryhackme.com/ (premium/free)
