@@ -1,4 +1,4 @@
-#PRACTICE! PRACTICE! and PRACTICE!
+# PRACTICE! PRACTICE! and PRACTICE!
 
     CTF
         Hacker 101: https://www.hackerone.com/hackers/hacker101
@@ -24,7 +24,7 @@
         BugBountyHunter: https://www.bugbountyhunter.com/ (premium)
         W3Challs : https://w3challs.com/
 
-#Bug Bounty Platforms
+# Bug Bounty Platforms
 
     Crowdsourcing
         Bugcrowd: https://www.bugcrowd.com/
@@ -37,7 +37,7 @@
         Meta: https://www.facebook.com/whitehat
         Google: https://about.google/appsecurity/
 
-#Bug Bounty Report Format
+# Bug Bounty Report Format
 
     Title
         The first impression is the last impression, the security engineer looks at the title first and he should be able to identify the issue.
