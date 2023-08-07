@@ -9,6 +9,7 @@
         HackThisSite: https://hackthissite.org/
         CTFChallenge: https://ctfchallenge.co.uk/
         PentesterLab: https://pentesterlab.com/referral/olaL4k8btE8wqA (premium)
+        vulnmachines: https://vulnmachines.com/
 
     Online Labs
         PortSwigger Web Security Academy: https://portswigger.net/web-security
