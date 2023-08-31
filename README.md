@@ -8,8 +8,9 @@
         VulnHub: https://www.vulnhub.com/
         HackThisSite: https://hackthissite.org/
         CTFChallenge: https://ctfchallenge.co.uk/
-        PentesterLab: https://pentesterlab.com/referral/olaL4k8btE8wqA (premium)
+        PentesterLab: https://pentesterlab.com/referral/8Jt5975G50j_5Q (premium)
         vulnmachines: https://vulnmachines.com/
+        root-me: https://root-me.com (fr) 
 
     Online Labs
         PortSwigger Web Security Academy: https://portswigger.net/web-security
